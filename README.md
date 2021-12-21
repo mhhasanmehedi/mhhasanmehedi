@@ -2,11 +2,11 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://mehedihasan-1.web.app/](https://mehedihasan-1.web.app/)
 
-- 📫 How to reach me **mehedihasanrahat20@gmail.com**
+- 📫 How to reach me **mmmehedi53@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qSeWOcvAaSE5pg94Omqfp2IHaVBxbEAl/view](https://drive.google.com/file/d/1qSeWOcvAaSE5pg94Omqfp2IHaVBxbEAl/view)
 
