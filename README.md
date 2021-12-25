@@ -1,4 +1,4 @@
-![My Image](https://i.ibb.co/pQxCsrt/Pics-Art-12-22-01-39-40.jpg)
+![My Image](./overview.jpg)
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
