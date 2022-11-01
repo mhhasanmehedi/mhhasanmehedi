@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <hr/>
 [![MongoDb Badge](https://img.shields.io/badge/MongoDb-0081CB?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/mhhasanmehedi)
-[![Express Badge](https://img.shields.io/badge/EXPRESS-330F63?style=for-the-badge&logo=express&logoColor=white)](https://github.com/mhhasanmehedi)
+<!-- [![Express Badge](https://img.shields.io/badge/EXPRESS-330F63?style=for-the-badge&logo=express&logoColor=white)](https://github.com/mhhasanmehedi)
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mhhasanmehedi)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/mhhasanmehedi)
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/mhhasanmehedi)
@@ -51,7 +51,7 @@
 [![Vercel Badge](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mhhasanmehedi)
 [![Google Chrome Badge](https://img.shields.io/badge/google_chrome-556532?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/mhhasanmehedi)
 [![Notion Badge](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/mhhasanmehedi)
-[![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/mhhasanmehedi)
+[![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/mhhasanmehedi) -->
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mhhasanmehedi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
