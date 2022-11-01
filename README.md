@@ -23,6 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<hr/>
 [![MongoDb Badge](https://img.shields.io/badge/MongoDb-0081CB?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/mhhasanmehedi)
 [![Express Badge](https://img.shields.io/badge/EXPRESS-330F63?style=for-the-badge&logo=express&logoColor=white)](https://github.com/mhhasanmehedi)
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mhhasanmehedi)
