@@ -15,6 +15,27 @@
 
 - ⚡ Fun fact **"Any fool can write code that a computer can understand. Good programmer write code that human can understand"-Martin Flowrer**
 
+#### Technical Skills:
+
+```bash
+├── Languages
+│   ├── JavaScript/TypeScript
+├── Front-End
+│   ├── HTML5, CSS3, Bootstrap, ReactJS, SASS, NextJS, ReduxJS, ReduxToolkit, ReactQuery, React Router Dom, TailwindCss
+│   ├── Styled Components & Emotion, MUI and various other component libraries.
+├── Back-End
+│   ├── NodeJS (ExpressJS), Laravel(Basic)
+├── Database
+│   ├── MySQL
+│   ├── MongoDB (Mongoose)
+├── Tools
+│   ├── VS Code
+│   ├── NPM
+|   ├── Yarn
+│   ├── Git
+└──
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/devmehedihasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devmehedihasan/" height="30" width="40" /></a>
