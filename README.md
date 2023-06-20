@@ -32,29 +32,24 @@
 ├── Tools
 │   ├── VS Code
 │   ├── NPM
-|   ├── Yarn
+│   ├── Yarn
 │   ├── Git
 └──
 ```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/devmehedihasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devmehedihasan/" height="30" width="40" /></a>
-<a href="https://web.facebook.com/mhhasan.mehedi.315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/mhhasan.mehedi.315/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mhhasanmehedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mhhasanmehedi/" height="30" width="40" /></a>
-</p>
+### 🔗 Follow Me:-
 
-<h3 align="left">Languages and Tools:</h3>
-<hr/>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mehedihasanrahat.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhhasanmehedi/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhhasanmehedi)
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=mhhasanmehedi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=mhhasanmehedi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhhasanmehedi&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <br/>
 
 <img alt="programmerrafi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhhasanmehedi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+-->
 
 **Thanks for visiting my profile :heart:**
