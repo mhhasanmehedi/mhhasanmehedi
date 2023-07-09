@@ -1,5 +1,5 @@
 <!-- ![My Image](./overview.jpg) -->
-<img src="./ezgif.com-video-to-gif.gif" width="100" />
+<img src="./ezgif.com-video-to-gif.gif" style="width: 100vw" />
 ## Hello :wave:, I'm Mehedi Hasan Rahat
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="center">
