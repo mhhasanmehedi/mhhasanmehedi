@@ -1,4 +1,4 @@
-![My Image](./overview.jpg)
+<!-- ![My Image](./overview.jpg) -->
 ![git imag](./ezgif.com-video-to-gif.gif)
 ## Hello :wave:, I'm Mehedi Hasan Rahat
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
