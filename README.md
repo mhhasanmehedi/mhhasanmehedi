@@ -1,4 +1,4 @@
-<img src="./mehedi3.gif" style="width: 100vw;border-radius: 20px" />
+<img src="./mehedi1.gif" style="width: 100vw;border-radius: 20px" />
 <!--## Hello :wave:, I'm Mehedi Hasan Rahat
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="center">
