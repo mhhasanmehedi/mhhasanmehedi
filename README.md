@@ -1,12 +1,11 @@
 <img src="./mehedi1.gif" style="width: 100vw;border-radius: 20px" />
-<hr/>
 <!--## Hello :wave:, I'm Mehedi Hasan Rahat
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mhhasanmehedi&label=Profile%20views&color=0e75b6&style=flat" alt="Mehedi hasan profile views" />
 </p> -->
 
-- 🌱 I’m currently learning **React JS**
+<!-- - 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://mehedihasan-1.web.app/](https://mehedihasan-1.web.app/)
 
@@ -14,9 +13,9 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15Tpm4zu8hcfFJBC2hcr3ad4oMSGFfikY/view)
 
-- ⚡ Fun fact **"Any fool can write code that a computer can understand. Good programmer write code that human can understand"-Martin Flowrer**
+- ⚡ Fun fact **"Any fool can write code that a computer can understand. Good programmer write code that human can understand"-Martin Flowrer** -->
 
-#### Technical Skills:
+## Technical Skills:
 
 ```bash
 ├── Languages
