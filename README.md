@@ -1,4 +1,4 @@
-<img src="./mehedi2.gif" style="width: 100vw;border-radius: 20px" />
+<img src="./mehedi1.gif" style="width: 100vw;border-radius: 20px" />
 <!--## Hello :wave:, I'm Mehedi Hasan Rahat
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="center">
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mmmehedi53@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Tpm4zu8hcfFJBC2hcr3ad4oMSGFfikY/view](https://drive.google.com/file/d/15Tpm4zu8hcfFJBC2hcr3ad4oMSGFfikY/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15Tpm4zu8hcfFJBC2hcr3ad4oMSGFfikY/view)
 
 - ⚡ Fun fact **"Any fool can write code that a computer can understand. Good programmer write code that human can understand"-Martin Flowrer**
 
@@ -43,13 +43,4 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhhasanmehedi/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhhasanmehedi)
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=mhhasanmehedi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhhasanmehedi&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-<br/>
-
-<img alt="programmerrafi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhhasanmehedi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
--->
-
-**Thanks for visiting my profile :heart:**
+<p style="text-align: center;background: #0D1120;padding: 5px;font-weight:bold">Thanks for visiting my profile :heart:</p>
