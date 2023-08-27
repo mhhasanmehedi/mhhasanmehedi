@@ -43,4 +43,4 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhhasanmehedi/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhhasanmehedi)
 
-<p style="text-align: center;background: #0D1120;padding: 5px;font-weight:bold">Thanks for visiting my profile :heart:</p>
+<p style="text-align: center!important;background: #0D1120;padding: 5px;font-weight:bold">Thanks for visiting my profile :heart:</p>
