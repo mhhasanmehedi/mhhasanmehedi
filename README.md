@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **"Any fool can write code that a computer can understand. Good programmer write code that human can understand"-Martin Flowrer** -->
 
-## Technical Skills:
+## 🛠 Technical Skills:
 
 ```bash
 ├── Languages
