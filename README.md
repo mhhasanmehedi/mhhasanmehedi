@@ -1,4 +1,4 @@
-<img src="./banner.jpg" style="width: 100vw;border-radius: 6px;" />
+<img src="./github-banner.jpg" style="width: 100vw;border-radius: 6px;" />
 <!--## Hello :wave:, I'm Mehedi Hasan Rahat
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="center">
