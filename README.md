@@ -1,4 +1,4 @@
-<img src="./mehedi1.gif" style="width: 100vw;border-radius: 20px" />
+<img src="./banner.jpg" style="width: 100vw;border-radius: 6px;" />
 <!--## Hello :wave:, I'm Mehedi Hasan Rahat
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="center">
@@ -21,8 +21,7 @@
 ├── Languages
 │   ├── JavaScript/TypeScript
 ├── Front-End
-│   ├── HTML5, CSS3, Bootstrap, ReactJS, SASS, NextJS, ReduxJS, ReduxToolkit, ReactQuery,
-        React Router Dom, TailwindCss
+│   ├── HTML5, CSS3, Bootstrap, ReactJS, SASS, NextJS, ReduxJS, ReduxToolkit, ReactQuery, React Router Dom, TailwindCss
 │   ├── Styled Components & Emotion, MUI and various other component libraries.
 ├── Back-End
 │   ├── NodeJS (ExpressJS), Laravel(Basic)
